@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ## 🏆 Certifications
 <p align="left">
   <a href="https://www.credly.com/badges/32016649-1228-4a3a-a6e7-e4089170caf4/public_url">
-    <img src="images/aws-credly.png" alt="AWS Cloud Practitioner" height="200px" width="200px"/>
+    <img src="images/aws-ccp.png" alt="AWS Cloud Practitioner" height="200px" width="200px"/>
   </a>
 </p>
 
