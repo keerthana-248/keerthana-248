@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   <img src="images/ts-logo-256.svg" alt="TypeScript" width="40" height="40"/>
   <img src="images/HTML5_logo_and_wordmark.svg" alt="HTML" width="40" height="40"/>
   <img src="images/Official_CSS_Logo.svg.png" alt="CSS" width="40" height="40"/>
-  <img src="images/C_Programming_Language.svg.png" alt="C" width="40" height="40"/>
+  <img src="images/C.png" alt="C" width="40" height="40"/>
   <img src="images/ISO_C++_Logo.svg.png" alt="C++" width="40" height="40"/>
   <img src="images/java.svg" alt="Java" width="40" height="40"/>
   <img src="images/sql-database-generic-svgrepo-com.svg" alt="SQL" width="40" height="40"/>
