@@ -82,20 +82,21 @@ Here are some ideas to get you started:
 
 ## 💼 Work Experience
 
-- **Graduate Research Assistant** @ George Mason University _(Aug 2024 – May 2025)_
-  - Developed GPT-integrated survey platform used in 500+ experiments
-  - Built multithreaded Python scrapers collecting 1M+ data points
-  - Integrated LLMs into 5+ academic projects for AI-driven analysis
+- **Exploration Support Staff** @ George Mason University _(Present)_
+  - Specialized in tutoring and mentoring students with disabilities in core programming and database courses,
+    including Python, Java, and SQL.
+  - Designed and adapted course curricula to enhance accessibility and comprehension for diverse learning needs.
+  - Delivered individualized support for coding assignments, reinforcing key programming concepts and best practices.
 
-- **Software Engineer** @ Persistent Systems _(Jun 2022 – Jul 2023)_
-  - Built secure dashboards using React, Spring Boot, OAuth2, and JWT
-  - Automated task workflows with AWS Lambda and SQS
-  - Migrated 50+ client databases to BigQuery using SQL and DBT Cloud
-  - Deployed containerized microservices with Docker, Kubernetes, and Terraform
-  - Implemented CI/CD with Jenkins and GitHub Actions
-
-- **Software Engineer Intern** @ VSoft Technologies _(Jun 2020 – Jul 2020)_
-  - Built OpenCV-Python pipeline to extract and validate ID card data
-  - Achieved 95%+ accuracy and reduced manual data entry time by 73%
+- **Software Engineer** @ Diligent Global _(May 2023 – Jul 2023)_
+  -  Engineered and deployed high-performance server-side applications using Next.js achieving a 40% reduction in server response time
+  -   Implemented sequential chatbots , optimizing user interaction flows and increasing customer engagement.
+  -   Architected intuitive user interfaces and was part of web design that boosted user satisfaction.
+  -   Optimized database management processes by integrating multiple databases into cohesive backend systems.
+    
+- **Associate Software Engineer** @ OpenText _(July 2021 – Jul 2022)_
+  - Enhanced the Content Management System (XECM) for SAP SuccessFactors by designing and developing feature upgrades using Agile Methodologies.
+  - Implemented containerized testing strategies with Docker and Kubernetes.
+  -  Collaborated with cross-functional and global teams for feature upgrade demos and troubleshooting 
 
 ---
