@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 <p align="left">
   <img src="images/node-js.svg" alt="Node.js" width="40" height="40"/>
   <img src="images/express-original.svg" alt="Express.js" width="40" height="40"/>
-  <img src="images/django.png" alt="Django" width="40" height="40"/>
+  <img src="images/django-1.png" alt="Django" width="40" height="40"/>
   <img src="images/postman.svg" alt="Postman" width="40" height="40"/>
 </p>
 
