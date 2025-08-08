@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     <img src="images/aws-ccp.png" alt="AWS Cloud Practitioner" height="200px" width="200px"/>
   </a>
   <a href="https://www.credly.com/badges/d36d2f08-afce-408c-9917-3f7b2b3b9be7/public_url">
-    <img src="images/devAssociate.png" alt="AWS Certified Developer Associate" height="200px" width="200px"/>
+    <img src="images/dev-associate.png" alt="AWS Certified Developer Associate" height="200px" width="200px"/>
   </a>
 </p>
 
