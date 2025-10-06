@@ -85,11 +85,13 @@ Here are some ideas to get you started:
 
 ## 💼 Work Experience
 
-- **Exploration Support Staff** @ George Mason University _(Present)_
-  - Specialized in tutoring and mentoring students with disabilities in core programming and database courses,
-    including Python, Java, and SQL.
-  - Designed and adapted course curricula to enhance accessibility and comprehension for diverse learning needs.
-  - Delivered individualized support for coding assignments, reinforcing key programming concepts and best practices.
+- **Software Developer** @ Wells Fargo _(Present)_
+  - Led Agile SDLC phases, including detailed sprint planning, design discussions, development, testing, and deployment 
+activities.
+  - Developed interactive, high-performance front-end user interfaces using React 18 with Redux Toolkit and modern 
+JavaScript (ES6+) features. 
+  -Designed and built RESTful APIs and microservices using Java 8, and Spring Boot, ensuring the backend could handle 
+massive transaction volumes with high availability. 
 
 - **Software Engineer** @ Diligent Global _(May 2023 – Jul 2023)_
   -  Engineered and deployed high-performance server-side applications using Next.js achieving a 40% reduction in server response time
