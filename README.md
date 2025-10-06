@@ -90,18 +90,15 @@ Here are some ideas to get you started:
 activities.
   - Developed interactive, high-performance front-end user interfaces using React 18 with Redux Toolkit and modern 
 JavaScript (ES6+) features. 
-  -Designed and built RESTful APIs and microservices using Java 8, and Spring Boot, ensuring the backend could handle 
+  - Designed and built RESTful APIs and microservices using Java 8, and Spring Boot, ensuring the backend could handle 
 massive transaction volumes with high availability. 
-
-- **Software Engineer** @ Diligent Global _(May 2023 – Jul 2023)_
-  -  Engineered and deployed high-performance server-side applications using Next.js achieving a 40% reduction in server response time
-  -   Implemented sequential chatbots , optimizing user interaction flows and increasing customer engagement.
-  -   Architected intuitive user interfaces and was part of web design that boosted user satisfaction.
-  -   Optimized database management processes by integrating multiple databases into cohesive backend systems.
     
-- **Associate Software Engineer** @ OpenText _(July 2021 – Jul 2022)_
-  - Enhanced the Content Management System (XECM) for SAP SuccessFactors by designing and developing feature upgrades using Agile Methodologies.
-  - Implemented containerized testing strategies with Docker and Kubernetes.
-  -  Collaborated with cross-functional and global teams for feature upgrade demos and troubleshooting 
+- **Software Developer** @ HCL Tech _(June 2020 – August 2023)_
+  - Implemented a microservices architecture using Java, Spring Boot, and Spring Cloud Gateway, resulting in 10% 
+reduction in API response times and enabling independent scaling of 12 distinct service modules. 
+  -  Designed and developed reactive, non-blocking RESTful APIs to handle over 3 million daily requests, achieving 99.97% 
+uptime and maintaining average response times under 120ms.
+  -  Built a Single Page Application (SPA) using React.js with a modular component-based architecture, enabling independent 
+development and maintenance of features such as user onboarding, portfolio tracking, and transaction history. 
 
 ---
