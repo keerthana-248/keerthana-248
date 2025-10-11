@@ -81,24 +81,4 @@ Here are some ideas to get you started:
   <img src="images/git-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
----
 
-## 💼 Work Experience
-
-- **Software Developer** @ Wells Fargo _(Present)_
-  - Led Agile SDLC phases, including detailed sprint planning, design discussions, development, testing, and deployment 
-activities.
-  - Developed interactive, high-performance front-end user interfaces using React 18 with Redux Toolkit and modern 
-JavaScript (ES6+) features. 
-  - Designed and built RESTful APIs and microservices using Java 8, and Spring Boot, ensuring the backend could handle 
-massive transaction volumes with high availability. 
-    
-- **Software Developer** @ HCL Tech _(June 2020 – August 2023)_
-  - Implemented a microservices architecture using Java, Spring Boot, and Spring Cloud Gateway, resulting in 10% 
-reduction in API response times and enabling independent scaling of 12 distinct service modules. 
-  -  Designed and developed reactive, non-blocking RESTful APIs to handle over 3 million daily requests, achieving 99.97% 
-uptime and maintaining average response times under 120ms.
-  -  Built a Single Page Application (SPA) using React.js with a modular component-based architecture, enabling independent 
-development and maintenance of features such as user onboarding, portfolio tracking, and transaction history. 
-
----
