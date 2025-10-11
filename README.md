@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <p align="center">
   Passionate about building scalable, secure applications using cloud-native tools.
   <br> 
-  <a href="https://www.linkedin.com/in/keerthana-reddy-singireddy-337157215/">💼 LinkedIn</a>
+ 
 </p>
 
 ---
