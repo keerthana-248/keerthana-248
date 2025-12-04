@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Keerthana Reddy Singireddy</h1>
-<h3 align="center">Software Engineer | Full Stack Developer</h3>
+
 
 <p align="center">
   Passionate about building scalable, secure applications using cloud-native tools.
